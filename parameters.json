@@ -12,31 +12,31 @@
             "value": "Standard_B1s"
         },
         "adminUsername": {
-            "value": "toddysmroot"
+            "value": "markpfaffroot"
         },
         "virtualNetworkName": {
-            "value": "nsc-automation-vnet"
+            "value": "markpfaff-lecture6-vnet"
         },
         "networkInterfaceName": {
-            "value": "automation-test932"
+            "value": "markpfaff-lecture6"
         },
         "diskSizeGB": {
             "value": "30"
         },
         "networkSecurityGroupName": {
-            "value": "automation-test-nsg"
+            "value": "markpfaff-lecture6-nsg"
         },
         "adminPassword": {
-            "value": null
+            "value": "changethispassword"
         },
         "diagnosticsStorageAccountName": {
-            "value": "nscautomationdiag"
+            "value": "markpfaffl6diag"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/nscautomationdiag"
+            "value": "Microsoft.Storage/storageAccounts/markpfaffl6diag"
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
@@ -48,7 +48,7 @@
             "value": "10.0.0.0/24"
         },
         "publicIpAddressName": {
-            "value": "automation-test-ip"
+            "value": "markpfaff-lecture6-pubip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
